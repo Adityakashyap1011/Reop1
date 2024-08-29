@@ -51,7 +51,7 @@
 }
 .rowncol{
     display: grid;
-    grid-template-columns: 451px 730px;
+    grid-template-columns: 29.3vw 47.5vw;
 }
 .two h1{
     font-family: "Outfit", sans-serif;
@@ -66,8 +66,7 @@
     font-weight: 700;
     font-size: 45px;
     margin-left: 10px;
-    height: 67px;
-    width: 451px;
+    height: 9vh;
     background-color: rgb(241, 239, 239);
     border-radius: 5px;
     margin-bottom: 2px;
@@ -93,7 +92,7 @@
 }
 .col2 img{
     height: 80%;
-    width: 800px;
+    width: 52vw;
     margin-left: 30px;
     object-fit: cover;
 }
@@ -166,8 +165,8 @@
     position: relative;
 }
 .email input{
-    height: 46px;
-    width: 297px;
+    height: 6.8vh;
+    width: 19.2vw;
     background-color: grey;
     border: 2px solid gray;
     border-radius: 4px;
@@ -225,14 +224,14 @@
 }
 .fa-paper-plane{
     font-size: 20px;
-    width: 33px;
-    line-height: 49.5px;
+    width: 2vw;
+    line-height: 6.8vh;
     color: white;
     background-color: grey;
     text-align: center;
     position: relative;
     top: 3.2px;
-    right: 35px;
+    right: 4vw;
 }
 .fa-circle-up{
     position: relative;
