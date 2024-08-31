@@ -240,6 +240,26 @@
     font-size: 40px;
     color: rgba(255, 255, 255, 1);
 }
+@media(max-width: 1000px){
+    .icons h1{
+        font-size: 25px;
+    }
+    .fa-brands,.bxl-gmail{
+        font-size: 17px;
+    }
+    .icons span{
+        font-size: 13px;
+    }
+    .fa-facebook-f{
+        font-size: 19px;
+    }
+    .email p{
+        font-size: 12px;
+    }
+    .fa-paper-plane{
+
+    }
+}
 @media(max-width: 1070px){
     .two h1{
         font-size: 48px;
@@ -252,6 +272,35 @@
     }
     .col2 img{
         margin-left: 7px;
+    }
+    .address h1{
+        font-size: 16px;
+    }
+    .address p{
+        font-size: 3px;
+    }
+}
+@media(max-width: 1240px){
+    .address h1{
+        font-size: 27px;
+    }
+    .address p{
+        font-size: 14.5px;
+    }
+    .icons h1{
+        font-size: 32.4px;
+    }
+    .fa-brands,.bxl-gmail{
+        font-size: 21.6px;
+    }
+    .icons span{
+        font-size: 16px;
+    }
+    .fa-facebook-f{
+        font-size: 24px;
+    }
+    .email p{
+        font-size: 23px;
     }
 }
 @media(max-width: 1300px){
@@ -268,6 +317,11 @@
         margin-left: 7px;
     }
 }
+@media(max-width: 1425px){
+    .fa-paper-plane{
+        font-size: 4px;
+    }
+}
 @media(max-width: 1500px){
     .two h1{
         font-size: 58px;
@@ -281,6 +335,13 @@
     .col2 img{
         margin-left: 10px;
     }
+    .address h1{
+        font-size: 30px;
+    }
+    .address p{
+        font-size: 18.5px;
+    }
+    .fa-paper-plane{
+        font-size: 16px;
+    }
 }
-
-
