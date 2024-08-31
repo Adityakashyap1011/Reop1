@@ -224,14 +224,15 @@
 }
 .fa-paper-plane{
     font-size: 20px;
-    width: 2vw;
+    width: 0;
     line-height: 6.8vh;
     color: white;
     background-color: grey;
     text-align: center;
     position: relative;
     top: 3.2px;
-    right: 4vw;
+    right: 3vw;
+    margin: 0;
 }
 .fa-circle-up{
     position: relative;
