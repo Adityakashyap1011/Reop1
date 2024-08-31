@@ -64,7 +64,7 @@
     margin-top: 0px;
     font-family: "Plus Jakarta Sans", sans-serif;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 3.1vw;
     margin-left: 10px;
     height: 9vh;
     background-color: rgb(241, 239, 239);
@@ -88,13 +88,13 @@
 }
 .col2{
     display: flex;
+    width: 53.5vw;
     justify-content: space-evenly;
 }
 .col2 img{
     height: 80%;
-    width: 52vw;
-    margin-left: 30px;
-    object-fit: cover;
+    width: 100%;
+    margin-left: 50px;
 }
 .three{
     width: 100vw;
