@@ -60,4 +60,9 @@
     font-size: 4vh;
     width: 46vw;
 }
-
+@media(max-width: 700px) {
+    .p1{
+        font-size: 40px;
+        line-height: 57px;
+    }
+}
